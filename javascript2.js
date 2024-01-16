@@ -1,0 +1,8 @@
+alert('Aqui é ums textinhos sinceros feito de coração💖:)')
+alert('td que eu acho sobre vc por dentro e por fora💖.')
+alert('nada aqui e hibepoles e falacias')
+alert('alias eu te considero como amigo')
+alert('as coisas que vou dizer irei dizer')
+alert('e como amigo então nada aqui')
+alert('e levado a um sentimento alem da amizade')
+alert('espero que goste💖')
